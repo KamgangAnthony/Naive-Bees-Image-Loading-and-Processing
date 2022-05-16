@@ -9,3 +9,5 @@ Being able to identify bee species from images is a task that ultimately would a
 ![image](https://user-images.githubusercontent.com/50509053/168582766-377cffeb-5cfe-4851-afb7-8602a091959d.png)
 
 This notebook walks through loading and processing images. After loading and processing these images, they will be ready for building models that can automatically detect honeybees and bumblebees.
+
+In the next part of the project(next notebook or repository), we will build models that detect honeybees and bumblebees.
